@@ -34,6 +34,8 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 ## Screenshots
 The following animation demonstrates the application functionality: 
 
+https://user-images.githubusercontent.com/115047281/223299903-463e8c2a-a997-4ad0-8dc7-f66ecc8870ff.mov
+
 
 
 
